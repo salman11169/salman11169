@@ -108,9 +108,9 @@ domains:   Healthcare · Education · Business Systems · Mobile
 
 <img src="https://streak-stats.demolab.com?user=salman11169&theme=radical&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salman11169&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity" width="100%" />
+<img src="https://ghchart.rshah.org/0ea5e9/salman11169" alt="Contribution Calendar" width="95%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=salman11169&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+
 
 </div>
 
