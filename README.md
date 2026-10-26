@@ -92,6 +92,9 @@ domains:   Healthcare · Education · Business Systems · Mobile
 
 | المشروع | الوصف | التقنية |
 | :--- | :--- | :---: |
+| 🩸 [Smart-Blood-App](https://github.com/salman11169/Smart-Blood-App) | نظام تبرع بالدم ذكي يربط المتبرعين وبنوك الدم والمستشفيات لحظياً | `Flutter` `Dart` |
+| 🧠 MindCampus 🔒 | تطبيق موبايل متعدد المنصات (أندرويد و iOS) — مستودع خاص | `Flutter` `Dart` |
+| 👁️ Omnisight 🔒 | تطبيق موبايل متعدد المنصات (أندرويد و iOS) — مستودع خاص | `React Native` `TypeScript` |
 | 📢 [AnnouncementApp-Android](https://github.com/salman11169/AnnouncementApp-Android) | متجري: تطبيق أندرويد لإدارة الإعلانات والمنتجات | `Java` |
 | 📱 [mini-Android-application](https://github.com/salman11169/mini-Android-application) | تطبيق أندرويد مصغّر | `Java` |
 
