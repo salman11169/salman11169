@@ -1,14 +1,35 @@
 <div align="center">
 
-# 👋 مرحباً، أنا سلمان | Hi, I'm Salman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Salman%20Abdullah&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20Developer&descSize=22&descAlignY=58" width="100%" alt="header" />
 
-### Software Engineer · Backend Developer
+<a href="https://github.com/salman11169">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+scalable+web+applications;AI-powered+solutions+%26+clean+architectures;Laravel+%C2%B7+Python+%C2%B7+C%23+%C2%B7+Flutter;Turning+ideas+into+production+systems" alt="Typing SVG" />
+</a>
 
-*Building scalable web applications, AI-powered solutions, and clean software architectures.*
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=salman11169&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=salman11169&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/salman11169?style=for-the-badge&logo=github&color=8b5cf6" alt="followers" />
+<img src="https://img.shields.io/badge/Public%20Repos-25-0ea5e9?style=for-the-badge&logo=github" alt="repos" />
 
 </div>
+
+---
+
+## 👨‍💻 نبذة عني | About Me
+
+```yaml
+name:      Salman Abdullah Abdo Ahmed
+role:      Software Engineer · Backend Developer
+focus:     Scalable web apps · AI-powered solutions · Clean architecture
+stack:     Laravel · PHP · Python · C# · TypeScript · Flutter
+domains:   Healthcare · Education · Business Systems · Mobile
+```
+
+- 🎯 أبني منصات وأنظمة متكاملة تخدم الصحة والتعليم والأعمال، من الفكرة وحتى النشر.
+- 🧠 أدمج الذكاء الاصطناعي وتحليل البيانات في حلول عملية (تحليل النوم، تحليل السكتة الدماغية، تحليل المشاعر).
+- 📱 أطوّر تطبيقات الموبايل بـ Flutter و Android و React Native.
+- 🏗️ أهتم بالبنية النظيفة، وقواعد البيانات، وتجربة المستخدم العربية (RTL).
 
 ---
 
@@ -16,70 +37,80 @@
 
 <div align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=laravel,php,py,flask,cs,ts,js,dart,flutter,react,java,mysql,html,css,git,github&perline=8" alt="skills" />
 
 </div>
 
 ---
 
-## 🌟 المشاريع | Projects
+## 🌟 مشاريع مميزة | Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/salman11169/NeuroSleep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salman11169&repo=NeuroSleep&theme=radical&hide_border=true" alt="NeuroSleep" /></a>
+<a href="https://github.com/salman11169/Smart-Blood-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salman11169&repo=Smart-Blood-App&theme=radical&hide_border=true" alt="Smart-Blood-App" /></a>
+<a href="https://github.com/salman11169/flexiq-gym-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salman11169&repo=flexiq-gym-system&theme=radical&hide_border=true" alt="flexiq-gym-system" /></a>
+<a href="https://github.com/salman11169/VaultDrop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salman11169&repo=VaultDrop&theme=radical&hide_border=true" alt="VaultDrop" /></a>
+<a href="https://github.com/salman11169/Blood_Donations"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salman11169&repo=Blood_Donations&theme=radical&hide_border=true" alt="Blood_Donations" /></a>
+<a href="https://github.com/salman11169/MediBook-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salman11169&repo=MediBook-Platform&theme=radical&hide_border=true" alt="MediBook-Platform" /></a>
+
+</div>
+
+---
+
+## 📂 جميع المشاريع العامة | All Public Projects
 
 ### 🏥 الصحة والذكاء الاصطناعي | Healthcare & AI
 
-| المشروع | التقنية |
-| :--- | :--- |
-| 🩸 [Blood_Donations](https://github.com/salman11169/Blood_Donations) | `PHP` · `MySQL` |
-| 🩸 [Smart-Blood-App](https://github.com/salman11169/Smart-Blood-App) | `Dart` · `Flutter` |
-| 🏥 [hospital_management](https://github.com/salman11169/hospital_management) | `PHP` |
-| 📅 [MediBook-Platform](https://github.com/salman11169/MediBook-Platform) | `HTML` |
-| 🧠 [Healthcare-Stroke-Analysis](https://github.com/salman11169/Healthcare-Stroke-Analysis) | `Python` |
-| 😴 [NeuroSleep](https://github.com/salman11169/NeuroSleep) | `Python` |
-| 💬 [Job-Sentiment-Analysis-System](https://github.com/salman11169/Job-Sentiment-Analysis-System) | `HTML` |
+| المشروع | الوصف | التقنية |
+| :--- | :--- | :---: |
+| 🧠 [NeuroSleep](https://github.com/salman11169/NeuroSleep) | تحليل أنماط النوم ومراقبة EEG لحظياً بالذكاء الاصطناعي | `Python` |
+| 🩸 [Smart-Blood-App](https://github.com/salman11169/Smart-Blood-App) | نظام ذكي يربط المتبرعين وبنوك الدم والمستشفيات لحظياً | `Flutter` |
+| 🩸 [Blood_Donations](https://github.com/salman11169/Blood_Donations) | منصة عطاء: ربط المتبرعين بالمستشفيات ونداءات طارئة | `PHP` `MySQL` |
+| 🏥 [MediBook-Platform](https://github.com/salman11169/MediBook-Platform) | منصة رعاية صحية لحجز المواعيد مع الأطباء | `HTML` |
+| 🩺 [hagz](https://github.com/salman11169/hagz) | شفاء+: إدارة عيادات ذكية بأولوية حسب الحالة الصحية | `PHP` |
+| 🏨 [hospital_management](https://github.com/salman11169/hospital_management) | نظام إدارة مستشفى | `PHP` |
+| 📊 [Healthcare-Stroke-Analysis](https://github.com/salman11169/Healthcare-Stroke-Analysis) | تحليل بيانات السكتة الدماغية وبناء نماذج تنبؤية | `Python` |
+| 💬 [Job-Sentiment-Analysis-System](https://github.com/salman11169/Job-Sentiment-Analysis-System) | نظام تحليل المشاعر للوظائف | `HTML` |
 
-### 🌐 أنظمة الويب | Web Systems
+### 🌐 أنظمة الويب والأعمال | Web & Business Systems
 
-| المشروع | التقنية |
-| :--- | :--- |
-| 🏋️ [flexiq-gym-system](https://github.com/salman11169/flexiq-gym-system) | `Laravel` · `Blade` |
-| 🏠 [realestate-pro](https://github.com/salman11169/realestate-pro) | `PHP` |
-| 👥 [hr-platform](https://github.com/salman11169/hr-platform) | `HTML` |
-| 🛠️ [Support_System](https://github.com/salman11169/Support_System) | `PHP` |
-| 💅 [Beauty-Salon](https://github.com/salman11169/Beauty-Salon) | `PHP` |
-| 🗓️ [hagz](https://github.com/salman11169/hagz) | `PHP` |
-| 📣 [Iblagh](https://github.com/salman11169/Iblagh) | `PHP` |
-| 🛍️ [Rewaq](https://github.com/salman11169/Rewaq) | `PHP` |
-| 🚇 [Metro-Booking-System](https://github.com/salman11169/Metro-Booking-System) | `HTML` |
-| 🔐 [VaultDrop](https://github.com/salman11169/VaultDrop) | `HTML` |
-| 🥗 [Calories_Counter-website](https://github.com/salman11169/Calories_Counter-website) | `CSS` |
+| المشروع | الوصف | التقنية |
+| :--- | :--- | :---: |
+| 🏋️ [flexiq-gym-system](https://github.com/salman11169/flexiq-gym-system) | FlexIQ: نظام شامل لإدارة الصالات الرياضية | `Laravel 12` |
+| 🏠 [realestate-pro](https://github.com/salman11169/realestate-pro) | منصة دارك العقارية لعرض وبيع وإيجار العقارات | `PHP` |
+| 👥 [hr-platform](https://github.com/salman11169/hr-platform) | إدارة الموارد البشرية: موظفون وحضور وإجازات ورواتب | `Flask` `MySQL` |
+| 💅 [Beauty-Salon](https://github.com/salman11169/Beauty-Salon) | نظام إدارة صالون تجميل مع حجز المواعيد | `PHP` `MySQL` |
+| 🎓 [Support_System](https://github.com/salman11169/Support_System) | نظام الدعم الفني لجامعة نجران وإدارة التذاكر | `PHP` |
+| 📣 [Iblagh](https://github.com/salman11169/Iblagh) | منصة إبلاغ لإدارة بلاغات ومرافق الكلية | `PHP` |
+| 📖 [Rewaq](https://github.com/salman11169/Rewaq) | منصة رواق لإدارة الأنشطة اللامنهجية الأكاديمية | `PHP` |
+| 🚇 [Metro-Booking-System](https://github.com/salman11169/Metro-Booking-System) | نظام حجز تذاكر مترو السعودية | `HTML` |
+| 🔐 [VaultDrop](https://github.com/salman11169/VaultDrop) | مشاركة ملفات آمنة بتشفير AES-256 ورموز وصول لمرة واحدة | `HTML` |
+| 🥗 [Calories_Counter-website](https://github.com/salman11169/Calories_Counter-website) | موقع عداد السعرات الحرارية | `CSS` |
 
-### 📱 تطبيقات الموبايل | Mobile
+### 📱 تطبيقات الموبايل | Mobile Apps
 
-| المشروع | التقنية |
-| :--- | :--- |
-| 📢 [AnnouncementApp-Android](https://github.com/salman11169/AnnouncementApp-Android) | `Java` |
-| 📱 [mini-Android-application](https://github.com/salman11169/mini-Android-application) | `Java` |
+| المشروع | الوصف | التقنية |
+| :--- | :--- | :---: |
+| 📢 [AnnouncementApp-Android](https://github.com/salman11169/AnnouncementApp-Android) | متجري: تطبيق أندرويد لإدارة الإعلانات والمنتجات | `Java` |
+| 📱 [mini-Android-application](https://github.com/salman11169/mini-Android-application) | تطبيق أندرويد مصغّر | `Java` |
 
-> 🔒 لدي أيضاً مشاريع خاصة (Private) في مجالات الويب والموبايل والذكاء الاصطناعي.
+> 🔒 لدي أيضاً مشاريع خاصة (Private) في الويب والموبايل والذكاء الاصطناعي.
 
 ---
 
-## 📊 إحصائيات GitHub | GitHub Stats
+## 📊 إحصائيات GitHub | GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=salman11169&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman11169&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=salman11169&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman11169&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="langs" />
+
+<img src="https://streak-stats.demolab.com?user=salman11169&theme=radical&hide_border=true" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salman11169&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=salman11169&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -87,6 +118,12 @@
 
 <div align="center">
 
-🌐 [GitHub](https://github.com/salman11169)
+### 🤝 دعنا نتواصل | Let's Connect
+
+<a href="https://github.com/salman11169"><img src="https://img.shields.io/badge/GitHub-salman11169-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+
+*«كل مشروع قصة، وكل سطر برمجي خطوة نحو الأفضل»*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
