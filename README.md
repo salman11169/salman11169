@@ -120,7 +120,19 @@ domains:   Healthcare · Education · Business Systems · Mobile
 
 ### 🤝 دعنا نتواصل | Let's Connect
 
-<a href="https://github.com/salman11169"><img src="https://img.shields.io/badge/GitHub-salman11169-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/salman-abdullah-ahmed"><img src="https://img.shields.io/badge/LinkedIn-Salman%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.facebook.com/share/1atbzom1PW/"><img src="https://img.shields.io/badge/Facebook-Salman-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://www.instagram.com/alamer_salman"><img src="https://img.shields.io/badge/Instagram-alamer__salman-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://github.com/salman11169"><img src="https://img.shields.io/badge/GitHub-salman11169-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+
+<br/>
+
+#### 📞 للتواصل المباشر | Direct Contact
+
+<a href="https://wa.me/967714066863"><img src="https://img.shields.io/badge/WhatsApp-%2B967%20714%20066%20863-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="https://wa.me/967776071221"><img src="https://img.shields.io/badge/WhatsApp-%2B967%20776%20071%20221-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="tel:+967776071221"><img src="https://img.shields.io/badge/Call-%2B967%20776%20071%20221-0EA5E9?style=for-the-badge&logo=phone&logoColor=white" alt="phone" /></a>
+<a href="https://wa.me/966543540294"><img src="https://img.shields.io/badge/WhatsApp-%2B966%2054%20354%200294-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
 
 *«كل مشروع قصة، وكل سطر برمجي خطوة نحو الأفضل»*
 
